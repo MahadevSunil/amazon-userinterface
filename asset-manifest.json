@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-userinterface/static/css/main.e6c13ad2.css",
+    "main.js": "/amazon-userinterface/static/js/main.4d4d7ee8.js",
+    "index.html": "/amazon-userinterface/index.html",
+    "main.e6c13ad2.css.map": "/amazon-userinterface/static/css/main.e6c13ad2.css.map",
+    "main.4d4d7ee8.js.map": "/amazon-userinterface/static/js/main.4d4d7ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d4d7ee8.js"
+  ]
+}
